@@ -1,4 +1,7 @@
 # UNLOX-ACADAMY
+
 EDA_cars_project
-Airbnb_NYC_Project
+
+Airbnb_NYC_AIML_Project
+
 Diabetes_LR_project
